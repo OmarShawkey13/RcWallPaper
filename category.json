@@ -1,11 +1,11 @@
 {
   "category": [
     {
-      "category_name": "test",
+      "categoryName": "test",
       "urlImage": "https://raw.githubusercontent.com/OmarShawkey13/RcWallPaper/refs/heads/main/wallpaper/1.jpg"
     },
     {
-      "category_name": "test2",
+      "categoryName": "test2",
       "urlImage": "https://raw.githubusercontent.com/OmarShawkey13/RcWallPaper/refs/heads/main/wallpaper/2.jpg"
     }
   ]
