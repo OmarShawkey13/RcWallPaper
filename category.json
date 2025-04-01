@@ -1,11 +1,61 @@
 {
   "category": [
     {
-      "categoryName": "test",
-      "urlImage": "https://raw.githubusercontent.com/OmarShawkey13/RcWallPaper/refs/heads/main/wallpaper/1.jpg"
+      "categoryName": "Amoled",
+      "urlImage": "https://raw.githubusercontent.com/OmarShawkey13/RcWallPaper/refs/heads/main/wallpaper/16.jpg",
+      "categoryItem": [
+        {
+          "urlImage": "https://raw.githubusercontent.com/OmarShawkey13/RcWallPaper/refs/heads/main/wallpaper/1.jpg"
+        },
+        {
+          "urlImage": "https://raw.githubusercontent.com/OmarShawkey13/RcWallPaper/refs/heads/main/wallpaper/2.jpg"
+        },
+        {
+          "urlImage": "https://raw.githubusercontent.com/OmarShawkey13/RcWallPaper/refs/heads/main/wallpaper/3.jpg"
+        },
+        {
+          "urlImage": "https://raw.githubusercontent.com/OmarShawkey13/RcWallPaper/refs/heads/main/wallpaper/4.jpg"
+        },
+        {
+          "urlImage": "https://raw.githubusercontent.com/OmarShawkey13/RcWallPaper/refs/heads/main/wallpaper/5.jpg"
+        },
+        {
+          "urlImage": "https://raw.githubusercontent.com/OmarShawkey13/RcWallPaper/refs/heads/main/wallpaper/6.jpg"
+        },
+        {
+          "urlImage": "https://raw.githubusercontent.com/OmarShawkey13/RcWallPaper/refs/heads/main/wallpaper/7.jpg"
+        },
+        {
+          "urlImage": "https://raw.githubusercontent.com/OmarShawkey13/RcWallPaper/refs/heads/main/wallpaper/8.jpg"
+        },
+        {
+          "urlImage": "https://raw.githubusercontent.com/OmarShawkey13/RcWallPaper/refs/heads/main/wallpaper/9.jpg"
+        },
+        {
+          "urlImage": "https://raw.githubusercontent.com/OmarShawkey13/RcWallPaper/refs/heads/main/wallpaper/10.jpg"
+        },
+        {
+          "urlImage": "https://raw.githubusercontent.com/OmarShawkey13/RcWallPaper/refs/heads/main/wallpaper/11.jpg"
+        },
+        {
+          "urlImage": "https://raw.githubusercontent.com/OmarShawkey13/RcWallPaper/refs/heads/main/wallpaper/12.jpg"
+        },
+        {
+          "urlImage": "https://raw.githubusercontent.com/OmarShawkey13/RcWallPaper/refs/heads/main/wallpaper/13.jpg"
+        },
+        {
+          "urlImage": "https://raw.githubusercontent.com/OmarShawkey13/RcWallPaper/refs/heads/main/wallpaper/14.jpg"
+        },
+        {
+          "urlImage": "https://raw.githubusercontent.com/OmarShawkey13/RcWallPaper/refs/heads/main/wallpaper/15.jpg"
+        },
+        {
+          "urlImage": "https://raw.githubusercontent.com/OmarShawkey13/RcWallPaper/refs/heads/main/wallpaper/16.jpg"
+        }
+      ]
     },
     {
-      "categoryName": "test2",
+      "categoryName": "Hero",
       "urlImage": "https://raw.githubusercontent.com/OmarShawkey13/RcWallPaper/refs/heads/main/wallpaper/2.jpg"
     }
   ]
